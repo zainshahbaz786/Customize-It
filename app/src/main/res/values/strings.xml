@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Customize_It</string>
+    <string name="kitchen_balcony">Kitchen, Balcony</string>
+    <string name="interior_object">Interior Object</string>
+    <string name="offices">Offices</string>
+    <string name="interior_walls">Interior Walls</string>
+    <string name="rooms_all_type">Rooms (All type)</string>
+    <string name="select_category_to_get_customized">Select Category to get Customized</string>
+    <string name="todo">TODO</string>
+
+</resources>
